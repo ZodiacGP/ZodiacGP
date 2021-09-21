@@ -47,11 +47,11 @@
 [js]: https://developer.mozilla.org/docs/Web/JavaScript
 [spring]: https://spring.io
 [sql]: https://en.wikipedia.org/wiki/SQL
-[mongodb]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[hibernate]: https://azure.microsoft.com/en-us/services/storage/blobs/
-[rest]: https://docs.microsoft.com/en-us/ef/
+[mongodb]: https://www.mongodb.com/
+[hibernate]: https://hibernate.org/
+[rest]: https://en.wikipedia.org/wiki/REST
 [HTML]: https://developer.mozilla.org/ru/docs/Learn/HTML
-[junit]: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
+[junit]: https://junit.org/
 [groovy]: https://www.groovy-lang.org/
 
 [telegram]: https://t.me/NerZhulH3
