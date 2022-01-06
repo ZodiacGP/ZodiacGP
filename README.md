@@ -54,6 +54,6 @@
 [junit]: https://junit.org/
 [groovy]: https://www.groovy-lang.org/
 
-[telegram]: https://t.me/NerZhulH3
+[telegram]: https://t.me/emptyzod
 [linkedin]: https://www.linkedin.com/in/pavel-gutsu/
 
