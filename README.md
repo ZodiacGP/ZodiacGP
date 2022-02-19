@@ -9,8 +9,8 @@
 ##
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Telegram" width="35px" src="https://image.flaticon.com/icons/png/128/408/408788.png" />][telegram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Telegram" width="40px" src="https://r58.fss.ru/files/494001/unnamed.jpg" />][telegram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
 
 <br />
 <br />
