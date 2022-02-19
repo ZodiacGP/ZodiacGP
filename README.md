@@ -23,7 +23,7 @@
 
 [<img align="left" alt="Spring" height="50px" src="https://i.ytimg.com/vi/mfRJUOnbCbg/maxresdefault.jpg" />][spring]
 
-[<img align="left" alt="SQL" height="50px" src="https://img2.freepng.ru/20180403/lhe/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa11c1874.3743286715227862091151.jpg" />][sql]
+[<img align="left" alt="SQL" height="50px" src="https://avatars.mds.yandex.net/i?id=e42bad65da0266c8ee843a3287dfa27b-5581032-images-thumbs&ref=rim&n=33&w=166&h=150" />][sql]
 
 [<img align="left" alt="MongoDb" width="50px" src="https://user-images.githubusercontent.com/66306220/109296478-66553680-7841-11eb-9eab-a6063f634266.png" />][mongodb]
 
