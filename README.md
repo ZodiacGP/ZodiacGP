@@ -1,16 +1,10 @@
-### Hi there, I'm Pavel - aka Zodiac 👋
-                                           
-## I'm a self-taught developer from Belarus. But now I live in Poland.
-
-
-- 🦍 I’m currently learning Java Backend dev
-- 🐦 I'm looking for a Java developer position on your team
 
 ##
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Telegram" height="40px" src="https://images11.popmeh.ru/upload/img_cache/dcf/dcfcee8484290f96664f54b880ddf379_ce_1200x640x0x80_cropped_1332x888.jpeg"/>][telegram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />][linkedin]
+[Telegram] 
+<br>
+[Linkedin]
 
 <br />
 <br />
